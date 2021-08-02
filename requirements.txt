@@ -1,0 +1,2 @@
+gym==0.18.3
+-e git+https://github.com/openai/mujoco-py.git@4830435a169c1f3e3b5f9b58a7c3d9c39bdf4acb#egg=mujoco_py
